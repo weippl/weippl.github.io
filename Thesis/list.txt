@@ -1,0 +1,24 @@
+2017
+2018
+list.txt
+
+./2017:
+Alexei Zamyatin - Merged Mining.pdf
+Other
+Philipp Schindler - Randomness for Blockchains.pdf
+
+./2017/Other:
+Richard Bayerle - Modern End-to-End Encrypted Messaging for the Desktop.pdf
+
+./2018:
+Alexandra Mai - Visualization of Bitcoin Transactions for Forensic and Security Analysis.pdf
+Matthias Fassl - Usable Authentication Ceremonies in Secure Instant Messaging.pdf
+Nicholas Fraihs - Malvertising und Malware im Kontext von Android.pdf
+Others
+Samuel Brendler - Visual Detection of Anti-Adblocking Software.pdf
+Sebastian Neuner - BadUSB.pdf
+
+./2018/Others:
+Manuel Wiesinger - Mitigating Rowhammer Attacks with Software Diversity.pdf
+Simon Mulser - Simulation of different selfish mining strategies in Bitcoin.pdf
+Tobias Fink - Automated XSS Vulnerability Detection Through Context Aware Fuzzing and Dynamic Analysis.pdf
