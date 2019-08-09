@@ -17,3 +17,14 @@
 .bibbase.well {
   background-color: #1b1f22;
 }
+
+img.bibbase_icon {
+
+    filter: url("data:image/svg+xml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'><filter%20id='grayscale'><feColorMatrix%20type='matrix'%20values='0.3333%200.3333%200.3333%200%200%200.3333%200.3333%200.3333%200%200%200.3333%200.3333%200.3333%200%200%200%200%200%201%200'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
+    filter: grayscale(50%); /* Current draft standard */
+    -webkit-filter: grayscale(50%); /* New WebKit */
+    -moz-filter: grayscale(50%);
+    -ms-filter: grayscale(50%);
+    -o-filter: grayscale(50%);
+    filter: white; /* IE6+ */
+}
