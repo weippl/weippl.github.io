@@ -1,5 +1,5 @@
 .bibbase_group {
-    background-color: #0088cc;
+    background-color: #000000;
 }
 
 #groupby_dropdown {
@@ -8,4 +8,8 @@
 
 #menu_dropdown {
                 display: none;
+}
+
+.bibbase_paper_content {
+    background-color: #000000;
 }
