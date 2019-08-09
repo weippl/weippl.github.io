@@ -11,5 +11,9 @@
 }
 
 .bibbase_paper_content {
-    background-color: #0088cc;
+  background-color: #0088cc;
+}
+
+.bibbase.well {
+  background-color: #0088cc;
 }
