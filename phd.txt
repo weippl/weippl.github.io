@@ -1,0 +1,43 @@
+<h3>PhD - Organizational Information</h3>
+								<p>A very good overview of what PhD is, what the standards are, etc.: <a href="http://spaf.cerias.purdue.edu/grads.html">http://spaf.cerias.purdue.edu/grads.html</a></p>
+
+								<p> What is the difference between a master's degree and a Ph.D.? Please read: <br>
+								Jason Hong. 2013. Ph.D. students must break away from undergraduate mentality. Commun. ACM 56, 7 (July 2013), 10-11. DOI=<a href="http://doi.acm.org/10.1145/2483852.2483857">10.1145/2483852.2483857</a> (<a href="http://cacm.acm.org/blogs/blog-cacm/157012-phds-from-the-facultys-perspective/fulltext">CACM Blog</a>)</p>
+
+								<p>You and Your Research (<a href="http://www.cs.virginia.edu/~robins/YouAndYourResearch.html">transcript</a>)</p>
+
+								<p>
+								What a great PhD thesis should like:
+								<ul style="list-style-type:square;">
+									<li>Bryan Parno, <a href="http://research.microsoft.com/pubs/138307/final-thesis-parno.pdf">Trust Extension as a Mechanism for Secure Code Execution on Commodity Computers</a>, Dissertation Carnegie Mellon University, 2010
+								(2010 Doctorial Dissertation <a href="http://www.acm.org/press-room/news-releases/2011/dd-award-2010">Award</a> for Security, ACM)	</li>
+									<li>Mathias J. Payer, Safe Loading and Efficient Runtime Confinement: A Foundation for Secure Execution, ETH Zurich 2012. (<a href="http://www.lst.inf.ethz.ch/research/publications/DISS_ETH_20442.html">Abstract</a>, <a href="http://www.lst.inf.ethz.ch/research/publications/DISS_ETH_20442/DISS_ETH_20442.pdf">PDF</a>)</li>
+								</ul>
+
+
+								</p>
+
+								<p>
+								Old, but still valid. The <a href="Files/researchers_bible.pdf">Researcher's Bible</a> by Alan Bundy, Ben du Boulay, Jim Howe and Gordon Plotkin from the  University of Edinburgh.
+								</p>
+
+								<p>
+								<a href="Files/systemicReviewsSoftwareEngineering.pdf">Systemic Reviews</a> for Software Engineering.
+								</p>
+
+
+								<b>Articles </b> you should read:
+								<ul style="list-style-type:square;">
+									<li><a href="https://www.sciencemag.org/careers/2018/04/how-write-your-phd-thesis">How to write your Ph.D. thesis
+								</a></li>
+								  <li><a href="Files/ResearchMethodology.pdf">ResearchMethodology</a></li>
+								  <li><a href="Files/how_to_review_smith-advice.pdf">How to Review (Smith)</a></li>
+								  <li><a href="Files/APSObserver-12TipsRorReviewers.pdf">APSObserver-12TipsRorReviewers.pdf</a></li>
+								  <li><a href="Files/comparativeLiteratureReview.pdf">Comparative LiteratureReview</a></li>
+								  <li><a href="Files/ding_popular_vs_prestige.pdf">ding_popular_vs_prestige.pdf</a></li>
+								  <li><a href="Files/commonpitfalls.pdf">Files/commonpitfalls.pdf</a></li>
+								  <li><a href="Files/johnson.pdf">johnson.pdf</a></li>
+								  <li>	Patricia Beatty, Ian Reay, Scott Dick, and James Miller. 2011. Consumer trust in e-commerce web sites: A meta-study. ACM Comput. Surv. 43, 3, Article 14 (April 2011), 46 pages. DOI=10.1145/1922649.1922651 <a href="http://doi.acm.org/10.1145/1922649.1922651">http://doi.acm.org/10.1145/1922649.1922651</a></li>
+								  <li><a href="Files/HowToReview.pdf">HowToReview.pdf</a></li>
+								  <li> Establishing <a href="Files/writingGroups.pdf">Writing Groups</a> and Norman Ramsey's <a href="http://www.cs.tufts.edu/~nr/pubs/learn.pdf">Handbook</a></li>
+								</ul>
